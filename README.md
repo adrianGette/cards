@@ -2,6 +2,6 @@
 
 Cards CssTricks style
 
-Link: https://cards-adrian-gette.netlify.app/
+See it live: https://cards-adrian-gette.netlify.app/
 
 <img src="https://github.com/adrianGette/cards/blob/main/cards.png" />
